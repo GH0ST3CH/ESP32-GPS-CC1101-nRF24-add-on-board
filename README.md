@@ -2,9 +2,9 @@
 
 # Signal Crypt
 
-### Independent E01/E07/GPS Carrier
+### Open-source nRF24/CC1101/GPS Passthrough PCB
 
-Signal Crypt v1.1 is a compact carrier PCB for mounting and connecting compatible Ebyte E01, Ebyte E07, and GPS modules.
+Signal Crypt v1.1 is a compact carrier PCB for mounting and connecting compatible Ebyte nRF24, CC1101, and GPS modules.
 
 Although designed with CYD-based wireless builds in mind, it is a general-purpose pass-through carrier that may be used in any project with matching module dimensions, voltage requirements, connections, and pin assignments.
 
@@ -79,15 +79,13 @@ It provides:
 
 ## Compatibility
 
-Signal Crypt is a passive hardware carrier intended for CYD-based builds using compatible E01, E07, and GPS module connections.
+Signal Crypt is a passive hardware carrier intended for CYD-based builds using compatible nRF24, CC1101, and GPS module connections.
 
 ---
 
 ## Files
 
 This repository contains the Signal Crypt manufacturing files.
-
-The original release contains Gerber manufacturing files.
 
 Users should independently inspect the manufacturing files and verify all dimensions, connections, footprints, clearances, electrical compatibility, and fabrication settings before ordering or assembling the PCB.
 
@@ -115,13 +113,8 @@ https://www.pcbway.com/project/shareproject/Signal_Crypt_9edc6af9.html
 
 ---
 
-
-Please refer to the original project and applicable license terms for complete licensing information.
-
----
-
 <div align="center">
 
-Signal Crypt | Open-source nRF24/CC1101/GPS Passthrough PCB
+Signal Crypt | Open-source nRF24/CC1101/GPS Passthrough PCB
 
 </div>
