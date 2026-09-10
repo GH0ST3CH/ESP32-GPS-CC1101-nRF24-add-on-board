@@ -122,6 +122,6 @@ Please refer to the original project and applicable license terms for complete l
 
 <div align="center">
 
-Signal Crypt Independent E01/E07/GPS Pass-Through Carrier
+Signal Crypt | Open-source nRF24/CC1101/GPS Passthrough PCB
 
 </div>
